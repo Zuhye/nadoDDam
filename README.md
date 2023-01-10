@@ -116,7 +116,7 @@ http://kdt-sw3-team01.elicecoding.com/
 ### 💡 백엔드
 1. ERD
     <br/>
-    <img src="/uploads/b845c7c9bf8826db64f9ed1e144e79d2/image.png" width="400px">
+    ![image](https://user-images.githubusercontent.com/90972641/211449693-5112b980-890e-44f4-bc88-6a406e204aff.png)
 2. [API 명세서](https://documenter.getpostman.com/view/16584157/2s8Z6sbvay)
 
 <br />
