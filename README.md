@@ -15,7 +15,7 @@
 ## ✅ 시연 영상
 
 <details><summary>회원가입, 로그인</summary>
-![로그인_회원가입](https://user-images.githubusercontent.com/90972641/211448123-28e67652-04b2-4260-a3bb-b5de1b84dab6.gif)
+<img src = "https://user-images.githubusercontent.com/90972641/211448123-28e67652-04b2-4260-a3bb-b5de1b84dab6.gif"/>
 </details>
 
 <details><summary>홈화면 - 무한스크롤, 찜하기</summary>
