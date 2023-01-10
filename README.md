@@ -19,27 +19,27 @@
 </details>
 
 <details><summary>홈화면 - 무한스크롤, 찜하기</summary>
-![홈,찜하기](https://user-images.githubusercontent.com/90972641/211448132-b6e6fc39-709e-4653-85d6-6ea39184e7b0.gif)
+<img src = "https://user-images.githubusercontent.com/90972641/211448132-b6e6fc39-709e-4653-85d6-6ea39184e7b0.gif"/>
 </details>
 
 <details><summary>일반 회원 - 예약&리뷰 CRUD</summary>
-![일반회원_예약CRUD_리뷰CRUD](https://user-images.githubusercontent.com/90972641/211448129-3df870fd-692a-4ef9-a21a-0119a9e8f724.gif)
+<img src = "https://user-images.githubusercontent.com/90972641/211448129-3df870fd-692a-4ef9-a21a-0119a9e8f724.gif"/>
 </details>
 
 <details><summary>일반 회원 - 회원 정보 RUD</summary>
-![일반회원_회원정보RUD](https://user-images.githubusercontent.com/90972641/211448131-f73ebead-54d1-4fac-b31a-0dee29760e4a.gif)
+<img src="https://user-images.githubusercontent.com/90972641/211448131-f73ebead-54d1-4fac-b31a-0dee29760e4a.gif"/>
 </details>
 
 <details><summary>농장 회원 - 농장 정보 RUD</summary>
-![농장주_농장정보CRUD](https://user-images.githubusercontent.com/90972641/211448175-0e93a268-d37f-46fd-8a7a-a239bc1d87fa.gif)
+<img src="https://user-images.githubusercontent.com/90972641/211448175-0e93a268-d37f-46fd-8a7a-a239bc1d87fa.gif"/>
 </details>
 
 <details><summary>농장 회원 - 체험시간 CRUD</summary>
-![농장주_체험시간표CRUD_1_](https://user-images.githubusercontent.com/90972641/211448181-cc755eab-f140-4f22-ba5c-4a2f75687aad.gif)
+<img src="https://user-images.githubusercontent.com/90972641/211448181-cc755eab-f140-4f22-ba5c-4a2f75687aad.gif"/>
 </details>
 
 <details><summary>농장 회원 - 예약 CRUD & 후기 R</summary>
-![농장주_예약RUD_후기R](https://user-images.githubusercontent.com/90972641/211448179-b71453c6-7e70-4baa-bdf2-b017f7c6482a.gif)
+<img src="https://user-images.githubusercontent.com/90972641/211448179-b71453c6-7e70-4baa-bdf2-b017f7c6482a.gif"/>
 </details>
 
 <br />
@@ -48,7 +48,7 @@
 
 |  |  |
 | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------|
-| ![1홈](/uploads/033cd3775e778eda6542e420a4692ef7/1홈.PNG) | ![2회원가입](/uploads/89b2aedde490ac3c9f62c34092792bce/2회원가입.PNG)
+| ![mainPage](https://user-images.githubusercontent.com/90972641/211448173-c3e16948-b8c8-4e99-a92d-2e38e3097421.png)| ![registerPage](https://user-images.githubusercontent.com/90972641/211448133-1728ca13-0b58-495d-9ec7-5f74fede5ff6.png)
 | 메인 페이지 | 회원가입 |
 | ![3로그인](/uploads/c927d935084a3c804453b71446addcf4/3로그인.PNG) | ![4디테일](/uploads/86e80955bcec1c218ad8692fe2427eb0/4디테일.png) |
 | 로그인 | 상세페이지(1) |
