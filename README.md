@@ -50,17 +50,17 @@
 | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------|
 | ![mainPage](https://user-images.githubusercontent.com/90972641/211448173-c3e16948-b8c8-4e99-a92d-2e38e3097421.png)| ![registerPage](https://user-images.githubusercontent.com/90972641/211448133-1728ca13-0b58-495d-9ec7-5f74fede5ff6.png)
 | 메인 페이지 | 회원가입 |
-| ![3로그인](/uploads/c927d935084a3c804453b71446addcf4/3로그인.PNG) | ![4디테일](/uploads/86e80955bcec1c218ad8692fe2427eb0/4디테일.png) |
+| ![loginPage](https://user-images.githubusercontent.com/90972641/211448137-1a5a1d1f-388f-48ad-989d-5df5a4df2d7c.png) | ![detailPage(1)](https://user-images.githubusercontent.com/90972641/211448139-4f0c19b6-ece1-4b32-a842-bb4b01057f12.png) |
 | 로그인 | 상세페이지(1) |
-| ![5디테일2](/uploads/157ee60a38466fe8e1fe4c583158d322/5디테일2.png)| ![6결제](/uploads/4378f6b59cebf7db6057bf9a02e5f93b/6결제.png)  |
+| ![detailPage(2)](https://user-images.githubusercontent.com/90972641/211448142-360ae6cc-37ae-4652-80cd-583105c56f05.png)| ![paypage](https://user-images.githubusercontent.com/90972641/211448149-eb9575e5-e3f0-45b4-9a3c-d080499b2e38.png)  |
 | 상세페이지(2) | 결제 |
-| ![7일반회원_정보관리](/uploads/c4227707a3600646905f74949a282108/7일반회원_정보관리.PNG) | ![8일반회원_예약](/uploads/f7c8a99f26051424f1dfbc34bea3aff5/8일반회원_예약.PNG)  |
+| ![memgerInfo](https://user-images.githubusercontent.com/90972641/211448153-d47f506b-e4bc-45df-8890-57937e3e349e.png) | ![memberReserve](https://user-images.githubusercontent.com/90972641/211448157-7a0e5041-d285-4933-bc8a-cb867df0bf4c.png)  |
 | 일반회원 - 정보 관리 | 일반 회원 - 예약 관리 |
-| ![9일반회원_후기](/uploads/aa81b1ebc9fc6f613721a6c7c8d42238/9일반회원_후기.png)  | ![10농장주_정보등록](/uploads/8271f09fa692a49b5a1a35fc30ac165e/10농장주_정보등록.PNG) |
+| ![memberReview](https://user-images.githubusercontent.com/90972641/211448159-24631b82-40a9-4c53-978d-58b576634a08.png)  | ![farmerAdd](https://user-images.githubusercontent.com/90972641/211448161-4505b3e6-13f7-4cbf-8b50-2250ae08b2a1.png) |
 | 일반 회원 - 후기 관리 | 농장주 - 농장 정보 등록 |
-| ![11농장주_정보관리](/uploads/049b3260b1bef217973adbb4665d6175/11농장주_정보관리.PNG)  | ![12농장주_체험등록](/uploads/4e135b6ade330c4f07232eb2237e2bc7/12농장주_체험등록.PNG)  |
+| ![farmerInfo](https://user-images.githubusercontent.com/90972641/211448164-ec7ea91c-d7d5-40ae-ae75-43125fd9b141.png)| ![farmerTime](https://user-images.githubusercontent.com/90972641/211448167-95ea156a-e9bc-4654-9362-9d303078c42f.png)  |
 | 농장주 - 농장 정보 관리 | 농장주 - 체험시간표 관리 |
-| ![13농장주_예약조회](/uploads/2887993abffa3c046aef282ecb0fc45f/13농장주_예약조회.PNG)  |  ![14농장주_후기](/uploads/c9d34953966bd961611fa9ec2414ac3b/14농장주_후기.PNG) |
+| ![farmerReserve](https://user-images.githubusercontent.com/90972641/211448168-aab5521e-87ea-4ed2-ab8a-b2998c4347e2.png)  |  ![farmerReview](https://user-images.githubusercontent.com/90972641/211448171-00513517-67b4-4a83-83bf-f0b049e11653.png) |
 | 농장주 - 예약 관리 | 농장주 - 후기 조회 |
 
 
