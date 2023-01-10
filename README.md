@@ -80,7 +80,7 @@ http://kdt-sw3-team01.elicecoding.com/
 <br />
 
 ## ✅ 기술 스택
-[<img src="/uploads/6f10447d2e5f1bff8505f65b344029bd/image.png" width="600px">]
+![다운로드](https://user-images.githubusercontent.com/90972641/211446541-72b3e2de-ced9-4e6a-a29f-ef9ea3db2ab7.png)
 <br />
 
 ### 💡 프론트엔드
