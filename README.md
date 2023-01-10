@@ -15,31 +15,31 @@
 ## ✅ 시연 영상
 
 <details><summary>회원가입, 로그인</summary>
-![로그인_회원가입](/uploads/0f667be88a7ef36e9e83574a4e5ccfa6/로그인_회원가입.gif)
+![로그인_회원가입](https://user-images.githubusercontent.com/90972641/211448123-28e67652-04b2-4260-a3bb-b5de1b84dab6.gif)
 </details>
 
 <details><summary>홈화면 - 무한스크롤, 찜하기</summary>
-![홈_찜하기](/uploads/2135318500a416c0eb14646eb24dbfa7/홈_찜하기.gif)
+![홈,찜하기](https://user-images.githubusercontent.com/90972641/211448132-b6e6fc39-709e-4653-85d6-6ea39184e7b0.gif)
 </details>
 
 <details><summary>일반 회원 - 예약&리뷰 CRUD</summary>
-![일반회원_예약CRUD_리뷰CRUD](/uploads/773e1a4939ec02724b7b264b88cde301/일반회원_예약CRUD_리뷰CRUD.gif)
+![일반회원_예약CRUD_리뷰CRUD](https://user-images.githubusercontent.com/90972641/211448129-3df870fd-692a-4ef9-a21a-0119a9e8f724.gif)
 </details>
 
 <details><summary>일반 회원 - 회원 정보 RUD</summary>
-![일반회원_회원정보RUD](/uploads/6ce5159cf49c4c8fded5a13f77e4a8ed/일반회원_회원정보RUD.gif)
+![일반회원_회원정보RUD](https://user-images.githubusercontent.com/90972641/211448131-f73ebead-54d1-4fac-b31a-0dee29760e4a.gif)
 </details>
 
 <details><summary>농장 회원 - 농장 정보 RUD</summary>
-![농장주_농장정보CRUD](/uploads/ae57575b16fc808b24059b7d70af4203/농장주_농장정보CRUD.gif)
+![농장주_농장정보CRUD](https://user-images.githubusercontent.com/90972641/211448175-0e93a268-d37f-46fd-8a7a-a239bc1d87fa.gif)
 </details>
 
 <details><summary>농장 회원 - 체험시간 CRUD</summary>
-![농장주_체험시간표CRUD_1_](/uploads/ef12e1a92fb6350bceebd4073df2ff7d/농장주_체험시간표CRUD_1_.gif)
+![농장주_체험시간표CRUD_1_](https://user-images.githubusercontent.com/90972641/211448181-cc755eab-f140-4f22-ba5c-4a2f75687aad.gif)
 </details>
 
 <details><summary>농장 회원 - 예약 CRUD & 후기 R</summary>
-![농장주_예약RUD_후기R.](/uploads/37b7a474f808131a80e26188a41383b9/농장주_예약RUD_후기R..gif)
+![농장주_예약RUD_후기R](https://user-images.githubusercontent.com/90972641/211448179-b71453c6-7e70-4baa-bdf2-b017f7c6482a.gif)
 </details>
 
 <br />
@@ -80,7 +80,7 @@ http://kdt-sw3-team01.elicecoding.com/
 <br />
 
 ## ✅ 기술 스택
-<img src="/uploads/6f10447d2e5f1bff8505f65b344029bd/image.png" width="600px">
+![image](https://user-images.githubusercontent.com/90972641/211446541-72b3e2de-ced9-4e6a-a29f-ef9ea3db2ab7.png)
 <br />
 
 ### 💡 프론트엔드
